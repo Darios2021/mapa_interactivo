@@ -1,0 +1,1982 @@
+[
+    {
+        "ID": "c01",
+        "Nombre de Camara": "mitre y gral acha",
+        "Departamento": "Capital",
+        "Tipo de Camara": "DOMO PTZ",
+        "Latitud": -31.537768044,
+        "Longitud": -68.524294049,
+        "Estado de Camara": "OPERATIVA"
+    },
+    {
+        "ID": "c02",
+        "Nombre de Camara": "mitre y mendoza",
+        "Departamento": "Capital",
+        "Tipo de Camara": "DOMO PTZ",
+        "Latitud": -31.537867201,
+        "Longitud": -68.525667004,
+        "Estado de Camara": "FUERA DE SERVICIO"
+    },
+    {
+        "ID": "c03",
+        "Nombre de Camara": "rivadavia y mendoza",
+        "Departamento": "Capital",
+        "Tipo de Camara": "DOMO PTZ",
+        "Latitud": -31.536711033,
+        "Longitud": -68.525773622,
+        "Estado de Camara": "OPERATIVA"
+    },
+    {
+        "ID": "c04",
+        "Nombre de Camara": "rivadavia y gral acha",
+        "Departamento": "Capital",
+        "Tipo de Camara": "DOMO PTZ",
+        "Latitud": -31.536561296,
+        "Longitud": -68.524255157,
+        "Estado de Camara": "OPERATIVA"
+    },
+    {
+        "ID": "c05",
+        "Nombre de Camara": "rivadavia y tucuman",
+        "Departamento": "Capital",
+        "Tipo de Camara": "DOMO PTZ",
+        "Latitud": -31.536475854,
+        "Longitud": -68.522988148,
+        "Estado de Camara": "OPERATIVA"
+    },
+    {
+        "ID": "c06",
+        "Nombre de Camara": "av. i. de la roza y tucuman",
+        "Departamento": "Capital",
+        "Tipo de Camara": "DOMO PTZ",
+        "Latitud": -31.537094519,
+        "Longitud": -68.522922099,
+        "Estado de Camara": "OPERATIVA"
+    },
+    {
+        "ID": "c07",
+        "Nombre de Camara": "santa fe y tucuman",
+        "Departamento": "Capital",
+        "Tipo de Camara": "DOMO PTZ",
+        "Latitud": -31.538913626,
+        "Longitud": -68.522738703,
+        "Estado de Camara": "OPERATIVA"
+    },
+    {
+        "ID": "c08",
+        "Nombre de Camara": "gral. acha y santa fe.",
+        "Departamento": "Capital",
+        "Tipo de Camara": "DOMO PTZ",
+        "Latitud": -31.539043072,
+        "Longitud": -68.524130099,
+        "Estado de Camara": "OPERATIVA"
+    },
+    {
+        "ID": "c09",
+        "Nombre de Camara": "mendoza y santa fe.",
+        "Departamento": "Capital",
+        "Tipo de Camara": "DOMO PTZ",
+        "Latitud": -31.539091078,
+        "Longitud": -68.525566757,
+        "Estado de Camara": "OPERATIVA"
+    },
+    {
+        "ID": "c10",
+        "Nombre de Camara": "av ignacio de la roza y entre rios",
+        "Departamento": "Capital",
+        "Tipo de Camara": "DOMO PTZ",
+        "Latitud": -31.537413708,
+        "Longitud": -68.52720324,
+        "Estado de Camara": "OPERATIVA"
+    },
+    {
+        "ID": "c100",
+        "Nombre de Camara": "laprida y alvear splitter fdbcp012-s en ce-cp-tpic-021",
+        "Departamento": "Capital",
+        "Tipo de Camara": "DOMO PTZ",
+        "Latitud": -31.535001615,
+        "Longitud": -68.550052643,
+        "Estado de Camara": "OPERATIVA"
+    },
+    {
+        "ID": "c101",
+        "Nombre de Camara": "avenida libertador y matias zavalla",
+        "Departamento": "Capital",
+        "Tipo de Camara": "DOMO PTZ",
+        "Latitud": -31.532284829,
+        "Longitud": -68.549903445,
+        "Estado de Camara": "OPERATIVA"
+    },
+    {
+        "ID": "c102",
+        "Nombre de Camara": "25 de mayo y urquiza",
+        "Departamento": "Capital",
+        "Tipo de Camara": "DOMO PTZ",
+        "Latitud": -31.529397638,
+        "Longitud": -68.544338532,
+        "Estado de Camara": "FUERA DE SERVICIO"
+    },
+    {
+        "ID": "c103",
+        "Nombre de Camara": "25 de mayo y matias zavalla",
+        "Departamento": "Capital",
+        "Tipo de Camara": "DOMO PTZ",
+        "Latitud": -31.52743088,
+        "Longitud": -68.549186289,
+        "Estado de Camara": "OPERATIVA"
+    },
+    {
+        "ID": "c104",
+        "Nombre de Camara": "urquiza y cortinez",
+        "Departamento": "Capital",
+        "Tipo de Camara": "DOMO PTZ",
+        "Latitud": -31.526623817,
+        "Longitud": -68.545121737,
+        "Estado de Camara": "FUERA DE SERVICIO"
+    },
+    {
+        "ID": "c105",
+        "Nombre de Camara": "av libertador y paula a de sarmiento",
+        "Departamento": "Capital",
+        "Tipo de Camara": "DOMO PTZ",
+        "Latitud": -31.530892827,
+        "Longitud": -68.553850986,
+        "Estado de Camara": "OPERATIVA"
+    },
+    {
+        "ID": "c106",
+        "Nombre de Camara": "av libertador, ingreso a casa de gobierno",
+        "Departamento": "Capital",
+        "Tipo de Camara": "DOMO PTZ",
+        "Latitud": -31.530309272,
+        "Longitud": -68.555669859,
+        "Estado de Camara": "OPERATIVA"
+    },
+    {
+        "ID": "c107",
+        "Nombre de Camara": "paula a de sarmiento, ingreso a casa de gobierno",
+        "Departamento": "Capital",
+        "Tipo de Camara": "DOMO PTZ",
+        "Latitud": -31.52933248,
+        "Longitud": -68.554270081,
+        "Estado de Camara": "OPERATIVA"
+    },
+    {
+        "ID": "c108",
+        "Nombre de Camara": "25 de mayo y paula a de sarmiento",
+        "Departamento": "Capital",
+        "Tipo de Camara": "DOMO PTZ",
+        "Latitud": -31.528400261,
+        "Longitud": -68.554548025,
+        "Estado de Camara": "OPERATIVA"
+    },
+    {
+        "ID": "c109",
+        "Nombre de Camara": "av circunvalacion y matias zavalla",
+        "Departamento": "Capital",
+        "Tipo de Camara": "DOMO PTZ",
+        "Latitud": -31.523596696,
+        "Longitud": -68.549342863,
+        "Estado de Camara": "FUERA DE SERVICIO"
+    },
+    {
+        "ID": "c11",
+        "Nombre de Camara": "laprida y entre rios",
+        "Departamento": "Capital",
+        "Tipo de Camara": "DOMO PTZ",
+        "Latitud": -31.535561137,
+        "Longitud": -68.527348414,
+        "Estado de Camara": "OPERATIVA"
+    },
+    {
+        "ID": "c110",
+        "Nombre de Camara": "av circunvalacion y scalabrini ortiz",
+        "Departamento": "Capital",
+        "Tipo de Camara": "DOMO PTZ",
+        "Latitud": -31.52295111,
+        "Longitud": -68.542421314,
+        "Estado de Camara": "FUERA DE SERVICIO"
+    },
+    {
+        "ID": "c111",
+        "Nombre de Camara": "salta y circunvalacion splitter fdbcp018-s en ce-cp-tpec-021",
+        "Departamento": "Capital",
+        "Tipo de Camara": "DOMO PTZ",
+        "Latitud": -31.520603203,
+        "Longitud": -68.536860734,
+        "Estado de Camara": "OPERATIVA"
+    },
+    {
+        "ID": "c112",
+        "Nombre de Camara": "catamarca y lateral de circunvalacion",
+        "Departamento": "Capital",
+        "Tipo de Camara": "DOMO PTZ",
+        "Latitud": -31.518592816,
+        "Longitud": -68.533205688,
+        "Estado de Camara": "FUERA DE SERVICIO"
+    },
+    {
+        "ID": "c113",
+        "Nombre de Camara": "mendoza y av circunvalacion",
+        "Departamento": "Capital",
+        "Tipo de Camara": "DOMO PTZ",
+        "Latitud": -31.517030777,
+        "Longitud": -68.529133558,
+        "Estado de Camara": "FUERA DE SERVICIO"
+    },
+    {
+        "ID": "c114",
+        "Nombre de Camara": "av circunvalacion y tucuman fdbcp018-s en ce-cp-tpec-021 de la mmisma onu (caja de equipos) estan conectadas la c114 y c219",
+        "Departamento": "Capital",
+        "Tipo de Camara": "DOMO PTZ",
+        "Latitud": -31.51597073,
+        "Longitud": -68.524192795,
+        "Estado de Camara": "FUERA DE SERVICIO"
+    },
+    {
+        "ID": "c115",
+        "Nombre de Camara": "av rawson y circunvalacion",
+        "Departamento": "Capital",
+        "Tipo de Camara": "DOMO PTZ",
+        "Latitud": -31.516133077,
+        "Longitud": -68.517396212,
+        "Estado de Camara": "FUERA DE SERVICIO"
+    },
+    {
+        "ID": "c116",
+        "Nombre de Camara": "av circunvalacion y necochea",
+        "Departamento": "Capital",
+        "Tipo de Camara": "DOMO PTZ",
+        "Latitud": -31.516803323,
+        "Longitud": -68.509860747,
+        "Estado de Camara": "OPERATIVA"
+    },
+    {
+        "ID": "c117",
+        "Nombre de Camara": "avda.circunvalacion y san lorenzo",
+        "Departamento": "Capital",
+        "Tipo de Camara": "DOMO PTZ",
+        "Latitud": -31.521085644,
+        "Longitud": -68.503942452,
+        "Estado de Camara": "OPERATIVA"
+    },
+    {
+        "ID": "c118",
+        "Nombre de Camara": "av libertador y lateral de circunvalacion",
+        "Departamento": "Capital",
+        "Tipo de Camara": "DOMO PTZ",
+        "Latitud": -31.533510722,
+        "Longitud": -68.503937423,
+        "Estado de Camara": "FUERA DE SERVICIO"
+    },
+    {
+        "ID": "c119",
+        "Nombre de Camara": "av circunvalacion e hipolito irigoyen",
+        "Departamento": "Capital",
+        "Tipo de Camara": "DOMO PTZ",
+        "Latitud": -31.541469173,
+        "Longitud": -68.50372422,
+        "Estado de Camara": "FUERA DE SERVICIO"
+    },
+    {
+        "ID": "c12",
+        "Nombre de Camara": "laprida y mendoza",
+        "Departamento": "Capital",
+        "Tipo de Camara": "DOMO PTZ",
+        "Latitud": -31.535493698,
+        "Longitud": -68.525923491,
+        "Estado de Camara": "OPERATIVA"
+    },
+    {
+        "ID": "c120",
+        "Nombre de Camara": "av circunvalacion y acc este",
+        "Departamento": "Capital",
+        "Tipo de Camara": "DOMO PTZ",
+        "Latitud": -31.548338071,
+        "Longitud": -68.505009636,
+        "Estado de Camara": "OPERATIVA"
+    },
+    {
+        "ID": "c121",
+        "Nombre de Camara": "av circunvalacion y acc sur (ruta 40) splitter fdbcp019-s en ce-cp-tpec-033 de la mmisma onu (caja de equipos) estan conectadas la c121, c210 y c211",
+        "Departamento": "Capital",
+        "Tipo de Camara": "DOMO PTZ",
+        "Latitud": -31.554588373,
+        "Longitud": -68.514000267,
+        "Estado de Camara": "OPERATIVA"
+    },
+    {
+        "ID": "c122",
+        "Nombre de Camara": "av circunvalacion y abraham tapia",
+        "Departamento": "Capital",
+        "Tipo de Camara": "DOMO PTZ",
+        "Latitud": -31.555600776,
+        "Longitud": -68.517658686,
+        "Estado de Camara": "FUERA DE SERVICIO"
+    },
+    {
+        "ID": "c123",
+        "Nombre de Camara": "av circunvalacion y gral acha",
+        "Departamento": "Capital",
+        "Tipo de Camara": "DOMO PTZ",
+        "Latitud": -31.554987442,
+        "Longitud": -68.522600234,
+        "Estado de Camara": "OPERATIVA"
+    },
+    {
+        "ID": "c124",
+        "Nombre de Camara": "avda. circunvalacion y mendoza",
+        "Departamento": "Capital",
+        "Tipo de Camara": "DOMO PTZ",
+        "Latitud": -31.555050525,
+        "Longitud": -68.524074107,
+        "Estado de Camara": "OPERATIVA"
+    },
+    {
+        "ID": "c125",
+        "Nombre de Camara": "av circunvalacion y españa",
+        "Departamento": "Capital",
+        "Tipo de Camara": "DOMO PTZ",
+        "Latitud": -31.554994299,
+        "Longitud": -68.533243239,
+        "Estado de Camara": "FUERA DE SERVICIO"
+    },
+    {
+        "ID": "c126",
+        "Nombre de Camara": "av circunvalacion y conector sur",
+        "Departamento": "Capital",
+        "Tipo de Camara": "DOMO PTZ",
+        "Latitud": -31.553986624,
+        "Longitud": -68.539157845,
+        "Estado de Camara": "OPERATIVA"
+    },
+    {
+        "ID": "c127",
+        "Nombre de Camara": "av circunvalacion y urquiza",
+        "Departamento": "Capital",
+        "Tipo de Camara": "DOMO PTZ",
+        "Latitud": -31.552736943,
+        "Longitud": -68.543543927,
+        "Estado de Camara": "OPERATIVA"
+    },
+    {
+        "ID": "c128",
+        "Nombre de Camara": "av circunvalacion y 9 de julio",
+        "Departamento": "Capital",
+        "Tipo de Camara": "DOMO PTZ",
+        "Latitud": -31.54510187,
+        "Longitud": -68.552247897,
+        "Estado de Camara": "FUERA DE SERVICIO"
+    },
+    {
+        "ID": "c129",
+        "Nombre de Camara": "nuche y av circunvalacion",
+        "Departamento": "Capital",
+        "Tipo de Camara": "DOMO PTZ",
+        "Latitud": -31.541813381,
+        "Longitud": -68.552595377,
+        "Estado de Camara": "FUERA DE SERVICIO"
+    },
+    {
+        "ID": "c13",
+        "Nombre de Camara": "laprida y tucuman",
+        "Departamento": "Capital",
+        "Tipo de Camara": "DOMO PTZ",
+        "Latitud": -31.535316754,
+        "Longitud": -68.523120582,
+        "Estado de Camara": "OPERATIVA"
+    },
+    {
+        "ID": "c130",
+        "Nombre de Camara": "av ignacio de la roza y paula a de sarmiento",
+        "Departamento": "Capital",
+        "Tipo de Camara": "DOMO PTZ",
+        "Latitud": -31.537923495,
+        "Longitud": -68.551784009,
+        "Estado de Camara": "OPERATIVA"
+    },
+    {
+        "ID": "c131",
+        "Nombre de Camara": "avenida libertador y lateral de circunvalacion oeste splitter fdbcp012-s en ce-cp-tpic-021",
+        "Departamento": "Capital",
+        "Tipo de Camara": "DOMO PTZ",
+        "Latitud": -31.529657583,
+        "Longitud": -68.55770123,
+        "Estado de Camara": "FUERA DE SERVICIO"
+    },
+    {
+        "ID": "c132",
+        "Nombre de Camara": "av libertador y del bono",
+        "Departamento": "Capital",
+        "Tipo de Camara": "DOMO PTZ",
+        "Latitud": -31.52918959,
+        "Longitud": -68.559193611,
+        "Estado de Camara": "FUERA DE SERVICIO"
+    },
+    {
+        "ID": "c133",
+        "Nombre de Camara": "sargento cabral y paula a de sarmiento",
+        "Departamento": "Capital",
+        "Tipo de Camara": "DOMO PTZ",
+        "Latitud": -31.520744392,
+        "Longitud": -68.556493297,
+        "Estado de Camara": "OPERATIVA"
+    },
+    {
+        "ID": "c134",
+        "Nombre de Camara": "sargento cabral y matias zavalla",
+        "Departamento": "Capital",
+        "Tipo de Camara": "DOMO PTZ",
+        "Latitud": -31.519521704,
+        "Longitud": -68.550824448,
+        "Estado de Camara": "OPERATIVA"
+    },
+    {
+        "ID": "c135",
+        "Nombre de Camara": "sargento cabral y scalabrini ortiz",
+        "Departamento": "Capital",
+        "Tipo de Camara": "DOMO PTZ",
+        "Latitud": -31.518262987,
+        "Longitud": -68.544065282,
+        "Estado de Camara": "FUERA DE SERVICIO"
+    },
+    {
+        "ID": "c136",
+        "Nombre de Camara": "francisco de villagra y las cañitas",
+        "Departamento": "Capital",
+        "Tipo de Camara": "DOMO PTZ",
+        "Latitud": -31.557296397,
+        "Longitud": -68.512751544,
+        "Estado de Camara": "FUERA DE SERVICIO"
+    },
+    {
+        "ID": "c137",
+        "Nombre de Camara": "cabot y españa",
+        "Departamento": "Capital",
+        "Tipo de Camara": "DOMO PTZ",
+        "Latitud": -31.557626431,
+        "Longitud": -68.533417918,
+        "Estado de Camara": "FUERA DE SERVICIO"
+    },
+    {
+        "ID": "c138",
+        "Nombre de Camara": "cabot y paula a de sarmiento",
+        "Departamento": "Capital",
+        "Tipo de Camara": "DOMO PTZ",
+        "Latitud": -31.554556032,
+        "Longitud": -68.547131047,
+        "Estado de Camara": "OPERATIVA"
+    },
+    {
+        "ID": "c139",
+        "Nombre de Camara": "cabot y rio bamba",
+        "Departamento": "Capital",
+        "Tipo de Camara": "DOMO PTZ",
+        "Latitud": -31.552892083,
+        "Longitud": -68.555932045,
+        "Estado de Camara": "OPERATIVA"
+    },
+    {
+        "ID": "c14",
+        "Nombre de Camara": "laprida y av rioja",
+        "Departamento": "Capital",
+        "Tipo de Camara": "DOMO PTZ",
+        "Latitud": -31.535150498,
+        "Longitud": -68.521630481,
+        "Estado de Camara": "FUERA DE SERVICIO"
+    },
+    {
+        "ID": "c140",
+        "Nombre de Camara": "arenales y victoria",
+        "Departamento": "Capital",
+        "Tipo de Camara": "DOMO PTZ",
+        "Latitud": -31.547134888,
+        "Longitud": -68.558520041,
+        "Estado de Camara": "OPERATIVA"
+    },
+    {
+        "ID": "c141",
+        "Nombre de Camara": "brasil y hermogenes ruiz",
+        "Departamento": "Capital",
+        "Tipo de Camara": "DOMO PTZ",
+        "Latitud": -31.544726189,
+        "Longitud": -68.556890264,
+        "Estado de Camara": "OPERATIVA"
+    },
+    {
+        "ID": "c142",
+        "Nombre de Camara": "brasil y esteban echeverria",
+        "Departamento": "Capital",
+        "Tipo de Camara": "DOMO PTZ",
+        "Latitud": -31.544822767,
+        "Longitud": -68.560653403,
+        "Estado de Camara": "OPERATIVA"
+    },
+    {
+        "ID": "c143",
+        "Nombre de Camara": "hermogenes ruiz y 9 de julio",
+        "Departamento": "Capital",
+        "Tipo de Camara": "DOMO PTZ",
+        "Latitud": -31.543789837,
+        "Longitud": -68.557114564,
+        "Estado de Camara": "FUERA DE SERVICIO"
+    },
+    {
+        "ID": "c144",
+        "Nombre de Camara": "h. ruiz y santa fe (o)",
+        "Departamento": "Capital",
+        "Tipo de Camara": "DOMO PTZ",
+        "Latitud": -31.540131489,
+        "Longitud": -68.55769828,
+        "Estado de Camara": "OPERATIVA"
+    },
+    {
+        "ID": "c145",
+        "Nombre de Camara": "gral paz y hermogenes ruiz",
+        "Departamento": "Capital",
+        "Tipo de Camara": "DOMO PTZ",
+        "Latitud": -31.542423724,
+        "Longitud": -68.557338528,
+        "Estado de Camara": "OPERATIVA"
+    },
+    {
+        "ID": "c146",
+        "Nombre de Camara": "av ignacio de la roza frente al casino",
+        "Departamento": "Capital",
+        "Tipo de Camara": "DOMO PTZ",
+        "Latitud": -31.537961273,
+        "Longitud": -68.554949968,
+        "Estado de Camara": "OPERATIVA"
+    },
+    {
+        "ID": "c147",
+        "Nombre de Camara": "av ignacio de la roza y hermogenes ruiz",
+        "Departamento": "Capital",
+        "Tipo de Camara": "DOMO PTZ",
+        "Latitud": -31.538119807,
+        "Longitud": -68.558019809,
+        "Estado de Camara": "FUERA DE SERVICIO"
+    },
+    {
+        "ID": "c148",
+        "Nombre de Camara": "avda. libertador y sta. maria de oro",
+        "Departamento": "Capital",
+        "Tipo de Camara": "DOMO PTZ",
+        "Latitud": -31.528132482,
+        "Longitud": -68.566951565,
+        "Estado de Camara": "FUERA DE SERVICIO"
+    },
+    {
+        "ID": "c15",
+        "Nombre de Camara": "rivadavia y av rioja",
+        "Departamento": "Capital",
+        "Tipo de Camara": "DOMO PTZ",
+        "Latitud": -31.536324917,
+        "Longitud": -68.521546394,
+        "Estado de Camara": "OPERATIVA"
+    },
+    {
+        "ID": "c154",
+        "Nombre de Camara": "plaza del teatro bicentenario",
+        "Departamento": "Capital",
+        "Tipo de Camara": "DOMO PTZ",
+        "Latitud": -31.539576797,
+        "Longitud": -68.5373643,
+        "Estado de Camara": "OPERATIVA"
+    },
+    {
+        "ID": "c155",
+        "Nombre de Camara": "cámara urquiza y san luis",
+        "Departamento": "Capital",
+        "Tipo de Camara": "DOMO PTZ",
+        "Latitud": -31.532197097,
+        "Longitud": -68.544977903,
+        "Estado de Camara": "OPERATIVA"
+    },
+    {
+        "ID": "c157",
+        "Nombre de Camara": "pedro de valdivia y avda. alem",
+        "Departamento": "Capital",
+        "Tipo de Camara": "DOMO PTZ",
+        "Latitud": -31.55128839,
+        "Longitud": -68.526540734,
+        "Estado de Camara": "OPERATIVA"
+    },
+    {
+        "ID": "c158",
+        "Nombre de Camara": "fray m. esquiu y lavalle",
+        "Departamento": "Capital",
+        "Tipo de Camara": "DOMO PTZ",
+        "Latitud": -31.547766911,
+        "Longitud": -68.518332168,
+        "Estado de Camara": "FUERA DE SERVICIO"
+    },
+    {
+        "ID": "c159",
+        "Nombre de Camara": "patricias sanjuaninas y mariano moreno",
+        "Departamento": "Capital",
+        "Tipo de Camara": "DOMO PTZ",
+        "Latitud": -31.545459663,
+        "Longitud": -68.512732051,
+        "Estado de Camara": "FUERA DE SERVICIO"
+    },
+    {
+        "ID": "c16",
+        "Nombre de Camara": "av ignacio de la roza y av rioja",
+        "Departamento": "Capital",
+        "Tipo de Camara": "DOMO PTZ",
+        "Latitud": -31.536957356,
+        "Longitud": -68.521492817,
+        "Estado de Camara": "OPERATIVA"
+    },
+    {
+        "ID": "c160",
+        "Nombre de Camara": "abraham tapia y nicanor larrain",
+        "Departamento": "Capital",
+        "Tipo de Camara": "DOMO PTZ",
+        "Latitud": -31.558648922,
+        "Longitud": -68.514835238,
+        "Estado de Camara": "OPERATIVA"
+    },
+    {
+        "ID": "c163",
+        "Nombre de Camara": "gral. soler y 9 de julio",
+        "Departamento": "Capital",
+        "Tipo de Camara": "DOMO PTZ",
+        "Latitud": -31.543399236,
+        "Longitud": -68.563757725,
+        "Estado de Camara": "OPERATIVA"
+    },
+    {
+        "ID": "c164",
+        "Nombre de Camara": "avda. rawson y corrientes",
+        "Departamento": "Capital",
+        "Tipo de Camara": "DOMO PTZ",
+        "Latitud": -31.514499312,
+        "Longitud": -68.517490625,
+        "Estado de Camara": "OPERATIVA"
+    },
+    {
+        "ID": "c166",
+        "Nombre de Camara": "scalabrini ortiz y pedro cortinez",
+        "Departamento": "Capital",
+        "Tipo de Camara": "DOMO PTZ",
+        "Latitud": -31.526055668,
+        "Longitud": -68.541531265,
+        "Estado de Camara": "OPERATIVA"
+    },
+    {
+        "ID": "c167",
+        "Nombre de Camara": "25 de mayo y felix aguilar",
+        "Departamento": "Capital",
+        "Tipo de Camara": "DOMO PTZ",
+        "Latitud": -31.530421868,
+        "Longitud": -68.542500883,
+        "Estado de Camara": "OPERATIVA"
+    },
+    {
+        "ID": "c168",
+        "Nombre de Camara": "mendoza y 25 de mayo",
+        "Departamento": "Capital",
+        "Tipo de Camara": "DOMO PTZ",
+        "Latitud": -31.531881891,
+        "Longitud": -68.526336215,
+        "Estado de Camara": "FUERA DE SERVICIO"
+    },
+    {
+        "ID": "c169",
+        "Nombre de Camara": "cordoba y ameghino",
+        "Departamento": "Capital",
+        "Tipo de Camara": "DOMO PTZ",
+        "Latitud": -31.540699895,
+        "Longitud": -68.546454728,
+        "Estado de Camara": "FUERA DE SERVICIO"
+    },
+    {
+        "ID": "c17",
+        "Nombre de Camara": "av ignacio de la roza y sarmiento",
+        "Departamento": "Capital",
+        "Tipo de Camara": "DOMO PTZ",
+        "Latitud": -31.537505436,
+        "Longitud": -68.528572172,
+        "Estado de Camara": "OPERATIVA"
+    },
+    {
+        "ID": "c170",
+        "Nombre de Camara": "avda. cordoba y gral. acha",
+        "Departamento": "Capital",
+        "Tipo de Camara": "DOMO PTZ",
+        "Latitud": -31.540285792,
+        "Longitud": -68.524006717,
+        "Estado de Camara": "OPERATIVA"
+    },
+    {
+        "ID": "c171",
+        "Nombre de Camara": "güemes y av. cordoba",
+        "Departamento": "Capital",
+        "Tipo de Camara": "DOMO PTZ",
+        "Latitud": -31.539837169,
+        "Longitud": -68.515959755,
+        "Estado de Camara": "OPERATIVA"
+    },
+    {
+        "ID": "c172",
+        "Nombre de Camara": "correa y candelaria de splitter fdbcp018-s en ce-cp-tpec-021",
+        "Departamento": "Capital",
+        "Tipo de Camara": "DOMO PTZ",
+        "Latitud": -31.512509945,
+        "Longitud": -68.521497175,
+        "Estado de Camara": "FUERA DE SERVICIO"
+    },
+    {
+        "ID": "c173",
+        "Nombre de Camara": "gral. acha y correa de splitter fdbcp018-s en ce-cp-tpec-021",
+        "Departamento": "Capital",
+        "Tipo de Camara": "DOMO PTZ",
+        "Latitud": -31.512185811,
+        "Longitud": -68.525818214,
+        "Estado de Camara": "OPERATIVA"
+    },
+    {
+        "ID": "c174",
+        "Nombre de Camara": "tucuman y correa de splitter fdbcp018-s en ce-cp-tpec-021",
+        "Departamento": "Capital",
+        "Tipo de Camara": "DOMO PTZ",
+        "Latitud": -31.512315579,
+        "Longitud": -68.524626642,
+        "Estado de Camara": "OPERATIVA"
+    },
+    {
+        "ID": "c175",
+        "Nombre de Camara": "mendoza y correa de splitter fdbcp018-s en ce-cp-tpec-021",
+        "Departamento": "Capital",
+        "Tipo de Camara": "DOMO PTZ",
+        "Latitud": -31.513080463,
+        "Longitud": -68.530152328,
+        "Estado de Camara": "FUERA DE SERVICIO"
+    },
+    {
+        "ID": "c176",
+        "Nombre de Camara": "salta y correa, cruce con corrientes splitter fdbcp018-s en ce-cp-tpec-021",
+        "Departamento": "Capital",
+        "Tipo de Camara": "DOMO PTZ",
+        "Latitud": -31.516481777,
+        "Longitud": -68.537413806,
+        "Estado de Camara": "OPERATIVA"
+    },
+    {
+        "ID": "c177",
+        "Nombre de Camara": "mary o graham y plazoleta - callejón deluga splitter fdbcp018-s en ce-cp-tpec-021",
+        "Departamento": "Capital",
+        "Tipo de Camara": "DOMO PTZ",
+        "Latitud": -31.512038236,
+        "Longitud": -68.532842709,
+        "Estado de Camara": "OPERATIVA"
+    },
+    {
+        "ID": "c178",
+        "Nombre de Camara": "arnobio sanchez y piedra buena splitter fdbch002 de ce-rv-tp3zs-003",
+        "Departamento": "Capital",
+        "Tipo de Camara": "DOMO PTZ",
+        "Latitud": -31.510026321,
+        "Longitud": -68.528160118,
+        "Estado de Camara": "OPERATIVA"
+    },
+    {
+        "ID": "c179",
+        "Nombre de Camara": "alem y segundo aguiar de splitter fdbch002-2 en ce-rv-tp3zs-003",
+        "Departamento": "Capital",
+        "Tipo de Camara": "DOMO PTZ",
+        "Latitud": -31.511845098,
+        "Longitud": -68.536160812,
+        "Estado de Camara": "OPERATIVA"
+    },
+    {
+        "ID": "c18",
+        "Nombre de Camara": "rivadavia y sarmiento",
+        "Departamento": "Capital",
+        "Tipo de Camara": "DOMO PTZ",
+        "Latitud": -31.53689729,
+        "Longitud": -68.528630979,
+        "Estado de Camara": "OPERATIVA"
+    },
+    {
+        "ID": "c180",
+        "Nombre de Camara": "lateral de circunvalación sur oeste y 12 de octubre",
+        "Departamento": "Capital",
+        "Tipo de Camara": "DOMO PTZ",
+        "Latitud": -31.555661353,
+        "Longitud": -68.513130024,
+        "Estado de Camara": "OPERATIVA"
+    },
+    {
+        "ID": "c181",
+        "Nombre de Camara": "florentino ameguino y laprida splitter fdbcp012-s en ce-cp-tpic-021",
+        "Departamento": "Capital",
+        "Tipo de Camara": "DOMO PTZ",
+        "Latitud": -31.534584972,
+        "Longitud": -68.547837809,
+        "Estado de Camara": "OPERATIVA"
+    },
+    {
+        "ID": "c182",
+        "Nombre de Camara": "san lorenzo y driollet - plaza de los niños splitter fdbrc0111p de ce-dp047",
+        "Departamento": "Capital",
+        "Tipo de Camara": "DOMO PTZ",
+        "Latitud": -31.522570105,
+        "Longitud": -68.566139191,
+        "Estado de Camara": "OPERATIVA"
+    },
+    {
+        "ID": "c183",
+        "Nombre de Camara": "las heras y manuel belgrano splitter fdbcp013-s en ce-cp-tpieosc-003",
+        "Departamento": "Capital",
+        "Tipo de Camara": "DOMO PTZ",
+        "Latitud": -31.546574007,
+        "Longitud": -68.538484611,
+        "Estado de Camara": "OPERATIVA"
+    },
+    {
+        "ID": "c184",
+        "Nombre de Camara": "gral paz y jose marti splitter fdbcp013-s en ce-cp-tpieosc-003",
+        "Departamento": "Capital",
+        "Tipo de Camara": "DOMO PTZ",
+        "Latitud": -31.54291491,
+        "Longitud": -68.549014963,
+        "Estado de Camara": "OPERATIVA"
+    },
+    {
+        "ID": "c185",
+        "Nombre de Camara": "belgrano y stago del estero",
+        "Departamento": "Capital",
+        "Tipo de Camara": "no hay datos",
+        "Latitud": -31.545737679,
+        "Longitud": -68.532288373,
+        "Estado de Camara": "OPERATIVA"
+    },
+    {
+        "ID": "c186",
+        "Nombre de Camara": "santa fe y aristobulo del valle splitter fdbcp006-s de ce-cp-tpic-005",
+        "Departamento": "Capital",
+        "Tipo de Camara": "DOMO PTZ",
+        "Latitud": -31.538031509,
+        "Longitud": -68.508116305,
+        "Estado de Camara": "OPERATIVA"
+    },
+    {
+        "ID": "c187",
+        "Nombre de Camara": "san luis y america del sur splitter fdbcp006-s de ce-cp-tpic-005",
+        "Departamento": "Capital",
+        "Tipo de Camara": "DOMO PTZ",
+        "Latitud": -31.532254251,
+        "Longitud": -68.509143591,
+        "Estado de Camara": "OPERATIVA"
+    },
+    {
+        "ID": "c188",
+        "Nombre de Camara": "pueyrredón y gregorio de la madrid splitter fdbcp006-s de ce-cp-tpic-005",
+        "Departamento": "Capital",
+        "Tipo de Camara": "DOMO PTZ",
+        "Latitud": -31.523245164,
+        "Longitud": -68.509187512,
+        "Estado de Camara": "OPERATIVA"
+    },
+    {
+        "ID": "c189",
+        "Nombre de Camara": "pedro de valdivia y pueyrredón splitter fdbcp006-s de ce-cp-tpic-005",
+        "Departamento": "Capital",
+        "Tipo de Camara": "DOMO PTZ",
+        "Latitud": -31.550870105,
+        "Longitud": -68.51075124,
+        "Estado de Camara": "OPERATIVA"
+    },
+    {
+        "ID": "c19",
+        "Nombre de Camara": "laprida y sarmiento",
+        "Departamento": "Capital",
+        "Tipo de Camara": "DOMO PTZ",
+        "Latitud": -31.535659153,
+        "Longitud": -68.52875255,
+        "Estado de Camara": "OPERATIVA"
+    },
+    {
+        "ID": "c190",
+        "Nombre de Camara": "agustín gomez y pasaje peatonal splitter fdbcp006-s de ce-cp-tpic-005",
+        "Departamento": "Capital",
+        "Tipo de Camara": "DOMO PTZ",
+        "Latitud": -31.552677516,
+        "Longitud": -68.528444096,
+        "Estado de Camara": "OPERATIVA"
+    },
+    {
+        "ID": "c191",
+        "Nombre de Camara": "mendoza y juan b. alberdi splitter fdbcp016-s en ce-cp-tpic-015",
+        "Departamento": "Capital",
+        "Tipo de Camara": "DOMO PTZ",
+        "Latitud": -31.526146549,
+        "Longitud": -68.526892103,
+        "Estado de Camara": "FUERA DE SERVICIO"
+    },
+    {
+        "ID": "c192",
+        "Nombre de Camara": "cereceto y gral. roca splitter fdbcp016-s en fdbcp016-s",
+        "Departamento": "Capital",
+        "Tipo de Camara": "DOMO PTZ",
+        "Latitud": -31.524493508,
+        "Longitud": -68.531989481,
+        "Estado de Camara": "no hay datos"
+    },
+    {
+        "ID": "c193",
+        "Nombre de Camara": "roger balet y flores splitter fdbcprv001 en fdbcprv001",
+        "Departamento": "Capital",
+        "Tipo de Camara": "DOMO PTZ",
+        "Latitud": -31.525255737,
+        "Longitud": -68.561485223,
+        "Estado de Camara": "OPERATIVA"
+    },
+    {
+        "ID": "c194",
+        "Nombre de Camara": "del bono y cornelio saavedra",
+        "Departamento": "Capital",
+        "Tipo de Camara": "DOMO PTZ",
+        "Latitud": -31.532589746,
+        "Longitud": -68.558415771,
+        "Estado de Camara": "OPERATIVA"
+    },
+    {
+        "ID": "c195",
+        "Nombre de Camara": "gral. paz y suipacha splitter fdbcp015-s en ce-cp-tppc-005",
+        "Departamento": "Capital",
+        "Tipo de Camara": "DOMO PTZ",
+        "Latitud": -31.542666888,
+        "Longitud": -68.538997583,
+        "Estado de Camara": "OPERATIVA"
+    },
+    {
+        "ID": "c196",
+        "Nombre de Camara": "bartolomé mitre y florentino ameghino splitter fdbcp013-s en ce-cp-tpieosc-003",
+        "Departamento": "Capital",
+        "Tipo de Camara": "DOMO PTZ",
+        "Latitud": -31.538396416,
+        "Longitud": -68.546635173,
+        "Estado de Camara": "OPERATIVA"
+    },
+    {
+        "ID": "c197",
+        "Nombre de Camara": "av. argentina y paraguay",
+        "Departamento": "Capital",
+        "Tipo de Camara": "DOMO PTZ",
+        "Latitud": -31.524089696,
+        "Longitud": -68.512039036,
+        "Estado de Camara": "FUERA DE SERVICIO"
+    },
+    {
+        "ID": "c198",
+        "Nombre de Camara": "telesfora sanchez de benavidez y posadas norte - ingreso barrio frondizi splitter fdbsl011s en dpe10-11-001",
+        "Departamento": "Capital",
+        "Tipo de Camara": "DOMO PTZ",
+        "Latitud": -31.509705037,
+        "Longitud": -68.513988331,
+        "Estado de Camara": "OPERATIVA"
+    },
+    {
+        "ID": "c20",
+        "Nombre de Camara": "av libertador y sarmiento",
+        "Departamento": "Capital",
+        "Tipo de Camara": "DOMO PTZ",
+        "Latitud": -31.53439351,
+        "Longitud": -68.528846093,
+        "Estado de Camara": "OPERATIVA"
+    },
+    {
+        "ID": "c200",
+        "Nombre de Camara": "esteban echeverría y sgto. cabral",
+        "Departamento": "Capital",
+        "Tipo de Camara": "DOMO PTZ",
+        "Latitud": -31.520920448,
+        "Longitud": -68.563006707,
+        "Estado de Camara": "no hay datos"
+    },
+    {
+        "ID": "c201",
+        "Nombre de Camara": "urquiza y gral. arenales splitter fdbcp013-s en ce-cp-tpieosc-003",
+        "Departamento": "Capital",
+        "Tipo de Camara": "DOMO PTZ",
+        "Latitud": -31.54700254,
+        "Longitud": -68.543983877,
+        "Estado de Camara": "OPERATIVA"
+    },
+    {
+        "ID": "c202",
+        "Nombre de Camara": "25 de mayo y c. d f sarmiento splitter fdbcp001-s en ce-cp-tppc-014",
+        "Departamento": "Capital",
+        "Tipo de Camara": "DOMO PTZ",
+        "Latitud": -31.532033064,
+        "Longitud": -68.529173993,
+        "Estado de Camara": "OPERATIVA"
+    },
+    {
+        "ID": "c21",
+        "Nombre de Camara": "av libertador y mendoza",
+        "Departamento": "Capital",
+        "Tipo de Camara": "DOMO PTZ",
+        "Latitud": -31.534255486,
+        "Longitud": -68.526042849,
+        "Estado de Camara": "OPERATIVA"
+    },
+    {
+        "ID": "c210",
+        "Nombre de Camara": "av circunvalacion y ruta 40 vista norte splitter fdbcp019-s en ce-cp-tpec-033 de la mmisma onu (caja de equipos) estan conectadas la c121, c210 y c211",
+        "Departamento": "Capital",
+        "Tipo de Camara": "FIJA",
+        "Latitud": -31.554520262,
+        "Longitud": -68.514032722,
+        "Estado de Camara": "OPERATIVA"
+    },
+    {
+        "ID": "c211",
+        "Nombre de Camara": "av circunvalación y ruta 40 vista sur splitter fdbcp019-s en ce-cp-tpec-033 de la mmisma onu (caja de equipos) estan conectadas la c121, c210 y c211",
+        "Departamento": "Capital",
+        "Tipo de Camara": "FIJA",
+        "Latitud": -31.554670427,
+        "Longitud": -68.513991416,
+        "Estado de Camara": "OPERATIVA"
+    },
+    {
+        "ID": "c212",
+        "Nombre de Camara": "av. circunvalación y 9 de julio vista al oeste",
+        "Departamento": "Capital",
+        "Tipo de Camara": "FIJA",
+        "Latitud": -31.545109071,
+        "Longitud": -68.552337885,
+        "Estado de Camara": "no hay datos"
+    },
+    {
+        "ID": "c213",
+        "Nombre de Camara": "av. circunvalación y 9 de julio vista al este",
+        "Departamento": "Capital",
+        "Tipo de Camara": "FIJA",
+        "Latitud": -31.545103356,
+        "Longitud": -68.552154154,
+        "Estado de Camara": "no hay datos"
+    },
+    {
+        "ID": "c214",
+        "Nombre de Camara": "C214 - Av Circunvalacion y Libertador Oeste vista oeste",
+        "Departamento": "no hay datos",
+        "Tipo de Camara": "no hay datos",
+        "Latitud": "no hay datos",
+        "Longitud": "no hay datos",
+        "Estado de Camara": "OPERATIVA"
+    },
+    {
+        "ID": "c215",
+        "Nombre de Camara": "C215 - Av Circunvalacion y Libertador Oeste vista este",
+        "Departamento": "no hay datos",
+        "Tipo de Camara": "no hay datos",
+        "Latitud": "no hay datos",
+        "Longitud": "no hay datos",
+        "Estado de Camara": "OPERATIVA"
+    },
+    {
+        "ID": "c216",
+        "Nombre de Camara": "C216 - Av Circunvalacion y San Lorenzo",
+        "Departamento": "no hay datos",
+        "Tipo de Camara": "no hay datos",
+        "Latitud": "no hay datos",
+        "Longitud": "no hay datos",
+        "Estado de Camara": "OPERATIVA"
+    },
+    {
+        "ID": "c217",
+        "Nombre de Camara": "av. circunvalación y corrientes vista sur",
+        "Departamento": "Capital",
+        "Tipo de Camara": "FIJA",
+        "Latitud": -31.514422711,
+        "Longitud": -68.517506182,
+        "Estado de Camara": "OPERATIVA"
+    },
+    {
+        "ID": "c218",
+        "Nombre de Camara": "av. circunvalación y corrientes vista norte",
+        "Departamento": "Capital",
+        "Tipo de Camara": "FIJA",
+        "Latitud": -31.514576828,
+        "Longitud": -68.517484725,
+        "Estado de Camara": "OPERATIVA"
+    },
+    {
+        "ID": "c219",
+        "Nombre de Camara": "av. circunvalación y tucumán fdbcp018-s en ce-cp-tpec-021 de la mmisma onu (caja de equipos) estan conectadas la c114 y c219",
+        "Departamento": "Capital",
+        "Tipo de Camara": "FIJA",
+        "Latitud": -31.516060192,
+        "Longitud": -68.524221629,
+        "Estado de Camara": "OPERATIVA"
+    },
+    {
+        "ID": "c22",
+        "Nombre de Camara": "av libertador y gral acha",
+        "Departamento": "Capital",
+        "Tipo de Camara": "DOMO PTZ",
+        "Latitud": -31.534097743,
+        "Longitud": -68.524656817,
+        "Estado de Camara": "OPERATIVA"
+    },
+    {
+        "ID": "c220",
+        "Nombre de Camara": "av. circunvalación y mendoza vista norte",
+        "Departamento": "Capital",
+        "Tipo de Camara": "FIJA",
+        "Latitud": -31.516917365,
+        "Longitud": -68.529233336,
+        "Estado de Camara": "FUERA DE SERVICIO"
+    },
+    {
+        "ID": "c221",
+        "Nombre de Camara": "av. circunvalación y salta vista norte",
+        "Departamento": "Capital",
+        "Tipo de Camara": "FIJA",
+        "Latitud": -31.520485451,
+        "Longitud": -68.53689909,
+        "Estado de Camara": "no hay datos"
+    },
+    {
+        "ID": "c222",
+        "Nombre de Camara": "av. circunvalación y libertador vista oeste splitter fdbcp012-s en ce-cp-tpic-021",
+        "Departamento": "Capital",
+        "Tipo de Camara": "FIJA",
+        "Latitud": -31.52959997,
+        "Longitud": -68.557863235,
+        "Estado de Camara": "OPERATIVA"
+    },
+    {
+        "ID": "c223",
+        "Nombre de Camara": "av. circunvalación y libertador vista este splitter fdbcp012-s en ce-cp-tpic-021",
+        "Departamento": "Capital",
+        "Tipo de Camara": "FIJA",
+        "Latitud": -31.529732572,
+        "Longitud": -68.557557464,
+        "Estado de Camara": "no hay datos"
+    },
+    {
+        "ID": "c226",
+        "Nombre de Camara": "av. circunvalación y conector sur vista sur",
+        "Departamento": "Capital",
+        "Tipo de Camara": "FIJA",
+        "Latitud": -31.554125762,
+        "Longitud": -68.539208472,
+        "Estado de Camara": "FUERA DE SERVICIO"
+    },
+    {
+        "ID": "c227",
+        "Nombre de Camara": "av. circunvalación y av. españa vista norte",
+        "Departamento": "Capital",
+        "Tipo de Camara": "FIJA",
+        "Latitud": -31.554916588,
+        "Longitud": -68.533235192,
+        "Estado de Camara": "FUERA DE SERVICIO"
+    },
+    {
+        "ID": "c228",
+        "Nombre de Camara": "av. circunvalación y av. españa vista sur",
+        "Departamento": "Capital",
+        "Tipo de Camara": "FIJA",
+        "Latitud": -31.555091437,
+        "Longitud": -68.533245921,
+        "Estado de Camara": "FUERA DE SERVICIO"
+    },
+    {
+        "ID": "c229",
+        "Nombre de Camara": "av. circunvalación y mendoza vista sur",
+        "Departamento": "Capital",
+        "Tipo de Camara": "FIJA",
+        "Latitud": -31.555151092,
+        "Longitud": -68.524061501,
+        "Estado de Camara": "FUERA DE SERVICIO"
+    },
+    {
+        "ID": "c23",
+        "Nombre de Camara": "av libertador y tucuman",
+        "Departamento": "Capital",
+        "Tipo de Camara": "DOMO PTZ",
+        "Latitud": -31.533987723,
+        "Longitud": -68.52325201,
+        "Estado de Camara": "FUERA DE SERVICIO"
+    },
+    {
+        "ID": "c231",
+        "Nombre de Camara": "C231 - Av Circunvalacion Y Conector sur vista sur - Cámara 1",
+        "Departamento": "no hay datos",
+        "Tipo de Camara": "no hay datos",
+        "Latitud": "no hay datos",
+        "Longitud": "no hay datos",
+        "Estado de Camara": "OPERATIVA"
+    },
+    {
+        "ID": "c232",
+        "Nombre de Camara": "C232 - Av Circunvalacion y Av España vista norte - Cámara 1",
+        "Departamento": "no hay datos",
+        "Tipo de Camara": "no hay datos",
+        "Latitud": "no hay datos",
+        "Longitud": "no hay datos",
+        "Estado de Camara": "FUERA DE SERVICIO"
+    },
+    {
+        "ID": "c233",
+        "Nombre de Camara": "C233 - Av Circunvalacion y Av España vista sur - Cámara 1",
+        "Departamento": "no hay datos",
+        "Tipo de Camara": "no hay datos",
+        "Latitud": "no hay datos",
+        "Longitud": "no hay datos",
+        "Estado de Camara": "FUERA DE SERVICIO"
+    },
+    {
+        "ID": "c234",
+        "Nombre de Camara": "C234 - Av Circunvalacion y Mendoza vista sur",
+        "Departamento": "no hay datos",
+        "Tipo de Camara": "no hay datos",
+        "Latitud": "no hay datos",
+        "Longitud": "no hay datos",
+        "Estado de Camara": "OPERATIVA"
+    },
+    {
+        "ID": "c24",
+        "Nombre de Camara": "av libertador y av rioja",
+        "Departamento": "Capital",
+        "Tipo de Camara": "DOMO PTZ",
+        "Latitud": -31.533873703,
+        "Longitud": -68.521681912,
+        "Estado de Camara": "OPERATIVA"
+    },
+    {
+        "ID": "c25",
+        "Nombre de Camara": "rivadavia antes de jujuy",
+        "Departamento": "Capital",
+        "Tipo de Camara": "DOMO PTZ",
+        "Latitud": -31.536244104,
+        "Longitud": -68.519726247,
+        "Estado de Camara": "FUERA DE SERVICIO"
+    },
+    {
+        "ID": "c26",
+        "Nombre de Camara": "av ignacio de la roza y aberastain",
+        "Departamento": "Capital",
+        "Tipo de Camara": "DOMO PTZ",
+        "Latitud": -31.536801332,
+        "Longitud": -68.518776074,
+        "Estado de Camara": "FUERA DE SERVICIO"
+    },
+    {
+        "ID": "c27",
+        "Nombre de Camara": "mitre y jujuy",
+        "Departamento": "Capital",
+        "Tipo de Camara": "DOMO PTZ",
+        "Latitud": -31.537470002,
+        "Longitud": -68.520092368,
+        "Estado de Camara": "FUERA DE SERVICIO"
+    },
+    {
+        "ID": "c28",
+        "Nombre de Camara": "sta. fe y aberastain",
+        "Departamento": "Capital",
+        "Tipo de Camara": "DOMO PTZ",
+        "Latitud": -31.538658165,
+        "Longitud": -68.518670797,
+        "Estado de Camara": "FUERA DE SERVICIO"
+    },
+    {
+        "ID": "c29",
+        "Nombre de Camara": "avda. cordoba y avda. rioja",
+        "Departamento": "Capital",
+        "Tipo de Camara": "DOMO PTZ",
+        "Latitud": -31.540129488,
+        "Longitud": -68.521152511,
+        "Estado de Camara": "OPERATIVA"
+    },
+    {
+        "ID": "c30",
+        "Nombre de Camara": "avda. cordoba y sarmiento",
+        "Departamento": "Capital",
+        "Tipo de Camara": "DOMO PTZ",
+        "Latitud": -31.54052639,
+        "Longitud": -68.528295234,
+        "Estado de Camara": "OPERATIVA"
+    },
+    {
+        "ID": "c31",
+        "Nombre de Camara": "av ignacio de la roza y av alem",
+        "Departamento": "Capital",
+        "Tipo de Camara": "DOMO PTZ",
+        "Latitud": -31.537674031,
+        "Longitud": -68.531695269,
+        "Estado de Camara": "OPERATIVA"
+    },
+    {
+        "ID": "c32",
+        "Nombre de Camara": "avda. libertador y avda. alem",
+        "Departamento": "Capital",
+        "Tipo de Camara": "DOMO PTZ",
+        "Latitud": -31.534660414,
+        "Longitud": -68.531882688,
+        "Estado de Camara": "OPERATIVA"
+    },
+    {
+        "ID": "c33",
+        "Nombre de Camara": "25 de mayo y av alem",
+        "Departamento": "Capital",
+        "Tipo de Camara": "DOMO PTZ",
+        "Latitud": -31.532213957,
+        "Longitud": -68.532089218,
+        "Estado de Camara": "OPERATIVA"
+    },
+    {
+        "ID": "c34",
+        "Nombre de Camara": "25 de mayo y entre rios",
+        "Departamento": "Capital",
+        "Tipo de Camara": "DOMO PTZ",
+        "Latitud": -31.531967908,
+        "Longitud": -68.527735323,
+        "Estado de Camara": "OPERATIVA"
+    },
+    {
+        "ID": "c35",
+        "Nombre de Camara": "san luis y gral acha",
+        "Departamento": "Capital",
+        "Tipo de Camara": "DOMO PTZ",
+        "Latitud": -31.532889804,
+        "Longitud": -68.524771146,
+        "Estado de Camara": "OPERATIVA"
+    },
+    {
+        "ID": "c36",
+        "Nombre de Camara": "san luis y tucuman",
+        "Departamento": "Capital",
+        "Tipo de Camara": "DOMO PTZ",
+        "Latitud": -31.532770638,
+        "Longitud": -68.523358293,
+        "Estado de Camara": "OPERATIVA"
+    },
+    {
+        "ID": "c37",
+        "Nombre de Camara": "san luis y caseros",
+        "Departamento": "Capital",
+        "Tipo de Camara": "DOMO PTZ",
+        "Latitud": -31.532338839,
+        "Longitud": -68.51765994,
+        "Estado de Camara": "OPERATIVA"
+    },
+    {
+        "ID": "c38",
+        "Nombre de Camara": "caseros e i. de la roza",
+        "Departamento": "Capital",
+        "Tipo de Camara": "DOMO PTZ",
+        "Latitud": -31.536744181,
+        "Longitud": -68.517355174,
+        "Estado de Camara": "OPERATIVA"
+    },
+    {
+        "ID": "c39",
+        "Nombre de Camara": "rivadavia y guemes",
+        "Departamento": "Capital",
+        "Tipo de Camara": "DOMO PTZ",
+        "Latitud": -31.536029784,
+        "Longitud": -68.516125716,
+        "Estado de Camara": "FUERA DE SERVICIO"
+    },
+    {
+        "ID": "c40",
+        "Nombre de Camara": "gral paz y guemes",
+        "Departamento": "Capital",
+        "Tipo de Camara": "DOMO PTZ",
+        "Latitud": -31.540810993,
+        "Longitud": -68.515798151,
+        "Estado de Camara": "OPERATIVA"
+    },
+    {
+        "ID": "c41",
+        "Nombre de Camara": "av rioja y 9 de julio",
+        "Departamento": "Capital",
+        "Tipo de Camara": "no hay datos",
+        "Latitud": -31.542549459,
+        "Longitud": -68.520785096,
+        "Estado de Camara": "OPERATIVA"
+    },
+    {
+        "ID": "c42",
+        "Nombre de Camara": "9 de julio y mendoza",
+        "Departamento": "Capital",
+        "Tipo de Camara": "DOMO PTZ",
+        "Latitud": -31.542757468,
+        "Longitud": -68.525199965,
+        "Estado de Camara": "FUERA DE SERVICIO"
+    },
+    {
+        "ID": "c43",
+        "Nombre de Camara": "9 de julio y av alem",
+        "Departamento": "Capital",
+        "Tipo de Camara": "DOMO PTZ",
+        "Latitud": -31.543218078,
+        "Longitud": -68.531290591,
+        "Estado de Camara": "OPERATIVA"
+    },
+    {
+        "ID": "c44",
+        "Nombre de Camara": "santa fe y santiago del estero",
+        "Departamento": "Capital",
+        "Tipo de Camara": "DOMO PTZ",
+        "Latitud": -31.539557421,
+        "Longitud": -68.532834202,
+        "Estado de Camara": "OPERATIVA"
+    },
+    {
+        "ID": "c45",
+        "Nombre de Camara": "avda. i. de la roza y salta",
+        "Departamento": "Capital",
+        "Tipo de Camara": "DOMO PTZ",
+        "Latitud": -31.537968644,
+        "Longitud": -68.534868322,
+        "Estado de Camara": "OPERATIVA"
+    },
+    {
+        "ID": "c46",
+        "Nombre de Camara": "españa y laprida",
+        "Departamento": "Capital",
+        "Tipo de Camara": "DOMO PTZ",
+        "Latitud": -31.536237131,
+        "Longitud": -68.536567904,
+        "Estado de Camara": "OPERATIVA"
+    },
+    {
+        "ID": "c47",
+        "Nombre de Camara": "25 de mayo y salta",
+        "Departamento": "Capital",
+        "Tipo de Camara": "DOMO PTZ",
+        "Latitud": -31.53249087,
+        "Longitud": -68.535468467,
+        "Estado de Camara": "OPERATIVA"
+    },
+    {
+        "ID": "c48",
+        "Nombre de Camara": "p echague y sarmiento",
+        "Departamento": "Capital",
+        "Tipo de Camara": "DOMO PTZ",
+        "Latitud": -31.530875395,
+        "Longitud": -68.529299721,
+        "Estado de Camara": "OPERATIVA"
+    },
+    {
+        "ID": "c49",
+        "Nombre de Camara": "mendoza y pedro echague",
+        "Departamento": "Capital",
+        "Tipo de Camara": "DOMO PTZ",
+        "Latitud": -31.530637915,
+        "Longitud": -68.526445515,
+        "Estado de Camara": "OPERATIVA"
+    },
+    {
+        "ID": "c50",
+        "Nombre de Camara": "gral acha y pedro echague",
+        "Departamento": "Capital",
+        "Tipo de Camara": "DOMO PTZ",
+        "Latitud": -31.530409008,
+        "Longitud": -68.52500651,
+        "Estado de Camara": "OPERATIVA"
+    },
+    {
+        "ID": "c51",
+        "Nombre de Camara": "p echague y av rioja",
+        "Departamento": "Capital",
+        "Tipo de Camara": "DOMO PTZ",
+        "Latitud": -31.530330705,
+        "Longitud": -68.522100672,
+        "Estado de Camara": "OPERATIVA"
+    },
+    {
+        "ID": "c52",
+        "Nombre de Camara": "25 de mayo y jujuy",
+        "Departamento": "Capital",
+        "Tipo de Camara": "DOMO PTZ",
+        "Latitud": -31.531464948,
+        "Longitud": -68.520718999,
+        "Estado de Camara": "FUERA DE SERVICIO"
+    },
+    {
+        "ID": "c53",
+        "Nombre de Camara": "avda. rawson y maipu",
+        "Departamento": "Capital",
+        "Tipo de Camara": "DOMO PTZ",
+        "Latitud": -31.528280232,
+        "Longitud": -68.515790775,
+        "Estado de Camara": "OPERATIVA"
+    },
+    {
+        "ID": "c54",
+        "Nombre de Camara": "pedro echague y av rawson",
+        "Departamento": "Capital",
+        "Tipo de Camara": "DOMO PTZ",
+        "Latitud": -31.529852027,
+        "Longitud": -68.515628502,
+        "Estado de Camara": "OPERATIVA"
+    },
+    {
+        "ID": "c55",
+        "Nombre de Camara": "25 de mayo y av rawson",
+        "Departamento": "Capital",
+        "Tipo de Camara": "DOMO PTZ",
+        "Latitud": -31.531118018,
+        "Longitud": -68.515564799,
+        "Estado de Camara": "FUERA DE SERVICIO"
+    },
+    {
+        "ID": "c56",
+        "Nombre de Camara": "25 de mayo y buenaventura luna",
+        "Departamento": "Capital",
+        "Tipo de Camara": "DOMO PTZ",
+        "Latitud": -31.531068579,
+        "Longitud": -68.514696769,
+        "Estado de Camara": "OPERATIVA"
+    },
+    {
+        "ID": "c57",
+        "Nombre de Camara": "avda.libertador y avda. rawson",
+        "Departamento": "Capital",
+        "Tipo de Camara": "DOMO PTZ",
+        "Latitud": -31.533464199,
+        "Longitud": -68.515161127,
+        "Estado de Camara": "OPERATIVA"
+    },
+    {
+        "ID": "c58",
+        "Nombre de Camara": "avda. rawson y santa fe",
+        "Departamento": "Capital",
+        "Tipo de Camara": "DOMO PTZ",
+        "Latitud": -31.538419848,
+        "Longitud": -68.514620997,
+        "Estado de Camara": "OPERATIVA"
+    },
+    {
+        "ID": "c59",
+        "Nombre de Camara": "terminal de omnibus. norte",
+        "Departamento": "Capital",
+        "Tipo de Camara": "DOMO PTZ",
+        "Latitud": -31.538481342,
+        "Longitud": -68.511604518,
+        "Estado de Camara": "OPERATIVA"
+    },
+    {
+        "ID": "c60",
+        "Nombre de Camara": "estados unidos, ingreso a la terminal de omnibus",
+        "Departamento": "Capital",
+        "Tipo de Camara": "DOMO PTZ",
+        "Latitud": -31.539393401,
+        "Longitud": -68.51162564,
+        "Estado de Camara": "FUERA DE SERVICIO"
+    },
+    {
+        "ID": "c61",
+        "Nombre de Camara": "terminal de omnibus, sur",
+        "Departamento": "Capital",
+        "Tipo de Camara": "DOMO PTZ",
+        "Latitud": -31.539992615,
+        "Longitud": -68.511225522,
+        "Estado de Camara": "OPERATIVA"
+    },
+    {
+        "ID": "c62",
+        "Nombre de Camara": "av cordoba y av rawson",
+        "Departamento": "Capital",
+        "Tipo de Camara": "DOMO PTZ",
+        "Latitud": -31.539738871,
+        "Longitud": -68.514360487,
+        "Estado de Camara": "OPERATIVA"
+    },
+    {
+        "ID": "c63",
+        "Nombre de Camara": "gral paz y estados unidos",
+        "Departamento": "Capital",
+        "Tipo de Camara": "DOMO PTZ",
+        "Latitud": -31.540400091,
+        "Longitud": -68.51158943,
+        "Estado de Camara": "OPERATIVA"
+    },
+    {
+        "ID": "c64",
+        "Nombre de Camara": "9 de julio y av rawson",
+        "Departamento": "Capital",
+        "Tipo de Camara": "DOMO PTZ",
+        "Latitud": -31.542084264,
+        "Longitud": -68.514435589,
+        "Estado de Camara": "OPERATIVA"
+    },
+    {
+        "ID": "c65",
+        "Nombre de Camara": "diagonal don bosco y caceros (cruce con belgrano)",
+        "Departamento": "Capital",
+        "Tipo de Camara": "DOMO PTZ",
+        "Latitud": -31.544532176,
+        "Longitud": -68.516346999,
+        "Estado de Camara": "OPERATIVA"
+    },
+    {
+        "ID": "c66",
+        "Nombre de Camara": "belgrano y tucuman",
+        "Departamento": "Capital",
+        "Tipo de Camara": "DOMO PTZ",
+        "Latitud": -31.544880199,
+        "Longitud": -68.522176445,
+        "Estado de Camara": "OPERATIVA"
+    },
+    {
+        "ID": "c67",
+        "Nombre de Camara": "belgrano y avenida alem",
+        "Departamento": "Capital",
+        "Tipo de Camara": "DOMO PTZ",
+        "Latitud": -31.545589956,
+        "Longitud": -68.530663624,
+        "Estado de Camara": "OPERATIVA"
+    },
+    {
+        "ID": "c68",
+        "Nombre de Camara": "gral paz y conector sur",
+        "Departamento": "Capital",
+        "Tipo de Camara": "DOMO PTZ",
+        "Latitud": -31.542574823,
+        "Longitud": -68.536864757,
+        "Estado de Camara": "OPERATIVA"
+    },
+    {
+        "ID": "c69",
+        "Nombre de Camara": "avda. cordoba y españa",
+        "Departamento": "Capital",
+        "Tipo de Camara": "DOMO PTZ",
+        "Latitud": -31.540893287,
+        "Longitud": -68.535991162,
+        "Estado de Camara": "OPERATIVA"
+    },
+    {
+        "ID": "c70",
+        "Nombre de Camara": "av ignacio de la roza y españa",
+        "Departamento": "Capital",
+        "Tipo de Camara": "DOMO PTZ",
+        "Latitud": -31.538088089,
+        "Longitud": -68.536381088,
+        "Estado de Camara": "OPERATIVA"
+    },
+    {
+        "ID": "c71",
+        "Nombre de Camara": "av ignacio de la roza y las heras",
+        "Departamento": "Capital",
+        "Tipo de Camara": "DOMO PTZ",
+        "Latitud": -31.538209248,
+        "Longitud": -68.538128212,
+        "Estado de Camara": "OPERATIVA"
+    },
+    {
+        "ID": "c72",
+        "Nombre de Camara": "las heras y rivadavia",
+        "Departamento": "Capital",
+        "Tipo de Camara": "DOMO PTZ",
+        "Latitud": -31.536813906,
+        "Longitud": -68.538279757,
+        "Estado de Camara": "OPERATIVA"
+    },
+    {
+        "ID": "c73",
+        "Nombre de Camara": "avda. libertador y españa",
+        "Departamento": "Capital",
+        "Tipo de Camara": "DOMO PTZ",
+        "Latitud": -31.535085915,
+        "Longitud": -68.536688201,
+        "Estado de Camara": "OPERATIVA"
+    },
+    {
+        "ID": "c74",
+        "Nombre de Camara": "av libertador y las heras",
+        "Departamento": "Capital",
+        "Tipo de Camara": "DOMO PTZ",
+        "Latitud": -31.535323955,
+        "Longitud": -68.538556024,
+        "Estado de Camara": "OPERATIVA"
+    },
+    {
+        "ID": "c75",
+        "Nombre de Camara": "25 de mayo y españa",
+        "Departamento": "Capital",
+        "Tipo de Camara": "DOMO PTZ",
+        "Latitud": -31.531871889,
+        "Longitud": -68.537145853,
+        "Estado de Camara": "OPERATIVA"
+    },
+    {
+        "ID": "c76",
+        "Nombre de Camara": "25 de mayo y las heras",
+        "Departamento": "Capital",
+        "Tipo de Camara": "DOMO PTZ",
+        "Latitud": -31.5323557,
+        "Longitud": -68.538803123,
+        "Estado de Camara": "OPERATIVA"
+    },
+    {
+        "ID": "c77",
+        "Nombre de Camara": "parque de mayo (interior)",
+        "Departamento": "Capital",
+        "Tipo de Camara": "DOMO PTZ",
+        "Latitud": -31.533095844,
+        "Longitud": -68.54113128,
+        "Estado de Camara": "OPERATIVA"
+    },
+    {
+        "ID": "c78",
+        "Nombre de Camara": "san luis y felix aguilar",
+        "Departamento": "Capital",
+        "Tipo de Camara": "DOMO PTZ",
+        "Latitud": -31.532895805,
+        "Longitud": -68.542616889,
+        "Estado de Camara": "OPERATIVA"
+    },
+    {
+        "ID": "c79",
+        "Nombre de Camara": "salta y cortinez",
+        "Departamento": "Capital",
+        "Tipo de Camara": "DOMO PTZ",
+        "Latitud": -31.526241717,
+        "Longitud": -68.536226526,
+        "Estado de Camara": "FUERA DE SERVICIO"
+    },
+    {
+        "ID": "c80",
+        "Nombre de Camara": "avda. alem y juan jufre",
+        "Departamento": "Capital",
+        "Tipo de Camara": "DOMO PTZ",
+        "Latitud": -31.523803842,
+        "Longitud": -68.534438163,
+        "Estado de Camara": "FUERA DE SERVICIO"
+    },
+    {
+        "ID": "c81",
+        "Nombre de Camara": "juan jufre y mendoza",
+        "Departamento": "Capital",
+        "Tipo de Camara": "DOMO PTZ",
+        "Latitud": -31.522813893,
+        "Longitud": -68.527473539,
+        "Estado de Camara": "FUERA DE SERVICIO"
+    },
+    {
+        "ID": "c82",
+        "Nombre de Camara": "falucho y catamarca",
+        "Departamento": "Capital",
+        "Tipo de Camara": "DOMO PTZ",
+        "Latitud": -31.522587825,
+        "Longitud": -68.531321101,
+        "Estado de Camara": "FUERA DE SERVICIO"
+    },
+    {
+        "ID": "c83",
+        "Nombre de Camara": "catamarca, polideportivo b° san martin",
+        "Departamento": "Capital",
+        "Tipo de Camara": "DOMO PTZ",
+        "Latitud": -31.520451725,
+        "Longitud": -68.532130122,
+        "Estado de Camara": "FUERA DE SERVICIO"
+    },
+    {
+        "ID": "c84",
+        "Nombre de Camara": "juan jufre y tucuman",
+        "Departamento": "Capital",
+        "Tipo de Camara": "DOMO PTZ",
+        "Latitud": -31.522531522,
+        "Longitud": -68.523489721,
+        "Estado de Camara": "FUERA DE SERVICIO"
+    },
+    {
+        "ID": "c85",
+        "Nombre de Camara": "av rawson y juan jufre",
+        "Departamento": "Capital",
+        "Tipo de Camara": "DOMO PTZ",
+        "Latitud": -31.522029898,
+        "Longitud": -68.516529258,
+        "Estado de Camara": "OPERATIVA"
+    },
+    {
+        "ID": "c86",
+        "Nombre de Camara": "av rawson y monteagudo",
+        "Departamento": "Capital",
+        "Tipo de Camara": "DOMO PTZ",
+        "Latitud": -31.517473555,
+        "Longitud": -68.517117202,
+        "Estado de Camara": "FUERA DE SERVICIO"
+    },
+    {
+        "ID": "c87",
+        "Nombre de Camara": "monteagudo y guemes",
+        "Departamento": "Capital",
+        "Tipo de Camara": "DOMO PTZ",
+        "Latitud": -31.517315509,
+        "Longitud": -68.518802226,
+        "Estado de Camara": "FUERA DE SERVICIO"
+    },
+    {
+        "ID": "c88",
+        "Nombre de Camara": "san lorenzo y necochea",
+        "Departamento": "Capital",
+        "Tipo de Camara": "DOMO PTZ",
+        "Latitud": -31.5201119,
+        "Longitud": -68.510115221,
+        "Estado de Camara": "FUERA DE SERVICIO"
+    },
+    {
+        "ID": "c89",
+        "Nombre de Camara": "maipu y pueyrredon",
+        "Departamento": "Capital",
+        "Tipo de Camara": "DOMO PTZ",
+        "Latitud": -31.528314812,
+        "Longitud": -68.508114964,
+        "Estado de Camara": "FUERA DE SERVICIO"
+    },
+    {
+        "ID": "c90",
+        "Nombre de Camara": "25 de mayo y pueyrredon",
+        "Departamento": "Capital",
+        "Tipo de Camara": "DOMO PTZ",
+        "Latitud": -31.530550182,
+        "Longitud": -68.507943302,
+        "Estado de Camara": "FUERA DE SERVICIO"
+    },
+    {
+        "ID": "c91",
+        "Nombre de Camara": "av libertador y pueyrredon",
+        "Departamento": "Capital",
+        "Tipo de Camara": "DOMO PTZ",
+        "Latitud": -31.533596795,
+        "Longitud": -68.508417718,
+        "Estado de Camara": "OPERATIVA"
+    },
+    {
+        "ID": "c92",
+        "Nombre de Camara": "abraham tapia y agustin gomez",
+        "Departamento": "Capital",
+        "Tipo de Camara": "DOMO PTZ",
+        "Latitud": -31.552183238,
+        "Longitud": -68.519785926,
+        "Estado de Camara": "OPERATIVA"
+    },
+    {
+        "ID": "c93",
+        "Nombre de Camara": "abraham tapia y av alem",
+        "Departamento": "Capital",
+        "Tipo de Camara": "DOMO PTZ",
+        "Latitud": -31.549110374,
+        "Longitud": -68.527979739,
+        "Estado de Camara": "FUERA DE SERVICIO"
+    },
+    {
+        "ID": "c94",
+        "Nombre de Camara": "valdivia y españa",
+        "Departamento": "Capital",
+        "Tipo de Camara": "DOMO PTZ",
+        "Latitud": -31.551121819,
+        "Longitud": -68.532849289,
+        "Estado de Camara": "FUERA DE SERVICIO"
+    },
+    {
+        "ID": "c95",
+        "Nombre de Camara": "pedro de valdivia y urquiza",
+        "Departamento": "Capital",
+        "Tipo de Camara": "DOMO PTZ",
+        "Latitud": -31.549498095,
+        "Longitud": -68.543745764,
+        "Estado de Camara": "OPERATIVA"
+    },
+    {
+        "ID": "c96",
+        "Nombre de Camara": "9 de julio y urquiza",
+        "Departamento": "Capital",
+        "Tipo de Camara": "DOMO PTZ",
+        "Latitud": -31.544278445,
+        "Longitud": -68.543813154,
+        "Estado de Camara": "OPERATIVA"
+    },
+    {
+        "ID": "c97",
+        "Nombre de Camara": "av cordoba y urquiza",
+        "Departamento": "Capital",
+        "Tipo de Camara": "DOMO PTZ",
+        "Latitud": -31.540672692,
+        "Longitud": -68.544284888,
+        "Estado de Camara": "FUERA DE SERVICIO"
+    },
+    {
+        "ID": "c98",
+        "Nombre de Camara": "avda. i. de la roza y urquiza",
+        "Departamento": "Capital",
+        "Tipo de Camara": "DOMO PTZ",
+        "Latitud": -31.537330268,
+        "Longitud": -68.54541745,
+        "Estado de Camara": "OPERATIVA"
+    },
+    {
+        "ID": "c99",
+        "Nombre de Camara": "av libertador y urquiza",
+        "Departamento": "Capital",
+        "Tipo de Camara": "DOMO PTZ",
+        "Latitud": -31.533676238,
+        "Longitud": -68.545293733,
+        "Estado de Camara": "OPERATIVA"
+    },
+    {
+        "ID": "cc01",
+        "Nombre de Camara": "jardin centro civico norte",
+        "Departamento": "Capital",
+        "Tipo de Camara": "DOMO PTZ",
+        "Latitud": -31.535446458,
+        "Longitud": -68.537423145,
+        "Estado de Camara": "no hay datos"
+    },
+    {
+        "ID": "cc02",
+        "Nombre de Camara": "las heras entre av. libertador y laprida",
+        "Departamento": "Capital",
+        "Tipo de Camara": "DOMO PTZ",
+        "Latitud": -31.536085793,
+        "Longitud": -68.538226783,
+        "Estado de Camara": "no hay datos"
+    },
+    {
+        "ID": "cc03",
+        "Nombre de Camara": "españa entre laprida y rivadavia",
+        "Departamento": "Capital",
+        "Tipo de Camara": "DOMO PTZ",
+        "Latitud": -31.537007077,
+        "Longitud": -68.536579907,
+        "Estado de Camara": "no hay datos"
+    },
+    {
+        "ID": "cc04",
+        "Nombre de Camara": "urquiza y san luis",
+        "Departamento": "Capital",
+        "Tipo de Camara": "DOMO PTZ",
+        "Latitud": -31.537204186,
+        "Longitud": -68.537303949,
+        "Estado de Camara": "no hay datos"
+    },
+    {
+        "ID": "cc05",
+        "Nombre de Camara": "plaza seca - centro civico",
+        "Departamento": "Capital",
+        "Tipo de Camara": "DOMO PTZ",
+        "Latitud": -31.537300974,
+        "Longitud": -68.537225267,
+        "Estado de Camara": "no hay datos"
+    },
+    {
+        "ID": "cc06",
+        "Nombre de Camara": "av. ignacio de la roza entre las heras y españa",
+        "Departamento": "Capital",
+        "Tipo de Camara": "DOMO PTZ",
+        "Latitud": -31.538122757,
+        "Longitud": -68.537433808,
+        "Estado de Camara": "no hay datos"
+    }
+]

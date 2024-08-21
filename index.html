@@ -1,0 +1,91 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Mapa Interactivo</title>
+    <link rel="stylesheet" href="styles.css">
+    <link rel="stylesheet" href="https://unpkg.com/leaflet/dist/leaflet.css">
+</head>
+<body>
+    <div id="sidebar">
+        <h2>Filtros</h2>
+        <div class="filter-group">
+            <label for="filter-estado">Estado de la Cámara:</label>
+            <select id="filter-estado" aria-label="Filtro por estado de la cámara">
+                <option value="all">Todos</option>
+                <option value="OPERATIVA">Operativa</option>
+                <option value="FUERA DE SERVICIO">Fuera de Servicio</option>
+            </select>
+        </div>
+
+        <div class="filter-group">
+            <label for="filter-departamento">Departamento:</label>
+            <select id="filter-departamento" aria-label="Filtro por departamento">
+                <option value="all">Todos</option>
+                <!-- Las opciones se agregarán dinámicamente en el script -->
+            </select>
+        </div>
+        
+        <div class="filter-group">
+            <label for="filter-tipo">Tipo de Cámara:</label>
+            <select id="filter-tipo" aria-label="Filtro por tipo de cámara">
+                <option value="all">Todos</option>
+                <option value="DOMO PTZ">DOMO PTZ</option>
+                <option value="FIJA">FIJA</option>
+            </select>
+        </div>
+
+        <div class="search-group">
+            <label for="search-input">Buscar Cámara:</label>
+            <input type="text" id="search-input" placeholder="Nombre o ID de Cámara" aria-label="Buscar cámara por nombre o ID">
+        </div>
+
+        <!-- Contenedor para los botones en línea -->
+        <div id="button-container">
+            <button id="search-button" aria-label="Buscar cámaras">Buscar</button>
+            <button id="clear-filters" aria-label="Limpiar filtros">
+                <img src="assets/icono-de-recarga.png" alt="Recargar" class="reload-icon">
+            </button>
+        </div>
+
+        <h2>Lista de Cámaras</h2>
+        
+        <!-- Resumen debajo del título -->
+        <div id="summary-container" aria-label="Resumen de cámaras">
+            <div class="summary-row">
+                <span class="summary-label">Cantidad Total:</span>
+                <span id="total-cameras" class="summary-value"></span>
+            </div>
+            <div class="summary-row">
+                <span class="summary-label">Cantidad Tipo:</span>
+                <span id="total-by-type" class="summary-value"></span>
+            </div>
+            <div class="summary-row">
+                <span class="summary-label">Cantidad Estado:</span>
+                <span id="total-by-status" class="summary-value"></span>
+            </div>
+        </div>
+
+        <table aria-label="Tabla de cámaras">
+            <thead>
+                <tr>
+                    <th>Nombre de Cámara</th>
+                    <th>Estado</th>
+                </tr>
+            </thead>
+            <tbody id="camera-table-body">
+                <!-- Filas de cámaras generadas dinámicamente -->
+            </tbody>
+        </table>
+    </div>
+
+    <div id="map-container">
+        <div id="map" role="application" aria-label="Mapa interactivo"></div>
+    </div>
+
+    <script src="https://unpkg.com/leaflet/dist/leaflet.js"></script>
+    <script src="map.js"></script>
+    <script src="main.js"></script>
+</body>
+</html>
